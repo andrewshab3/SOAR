@@ -20,7 +20,7 @@ SOAR is a program that provides a seamless solution for managing leaderboards, a
 
 - Leaderboard Creation: Easily create leaderboards to track and display user rankings based on specific criteria or metrics.
 - Achievement Management: Define and manage achievements that can be unlocked by users based on their on-chain activities.
-- Typescript Client Support: Invoke SOAR functionalities using a TypeScript client, allowing for seamless integration with your Solana application.
+- TypeScript Client Support: Invoke SOAR functionalities using a TypeScript client, allowing for seamless integration with your Solana application.
 - CPI Invocation: Interact with SOAR through CPI (Cross-Program Invocation) calls, enabling secure and efficient communication between programs.
 - Solana.Unity-SDK Integration (Coming Soon): Integration with the Solana.Unity-SDK is currently underway, providing an additional layer of functionality for Unity-based applications.
 
@@ -47,7 +47,7 @@ README.md: The document you are currently reading, providing an overview of the 
 
 ## 🚀 Getting Started
 
-- For the Typescript SDK see the detailed [documentation](https://magicblock-labs.github.io/SOAR/).
+- For the TypeScript SDK see the detailed [documentation](https://magicblock-labs.github.io/SOAR/).
 - For using SOAR from your solana program through CPI, see the [tens](https://github.com/magicblock-labs/SOAR/tree/main/examples/tens) example.
 - Solana.Unity-SDK integration (Coming Soon)
 

@@ -42,13 +42,13 @@ SOAR/
 
 program/: Contains the SOAR program source code for deployment on the Solana blockchain.
 client/: Includes the TypeScript sdk and the tests.
-examples/: Provides example scripts demonstrating how to use the SOAR program trough CPI.
+examples/: Provides example scripts demonstrating how to use the SOAR program through CPI.
 README.md: The document you are currently reading, providing an overview of the SOAR program repository.
 
 ## 🚀 Getting Started
 
 - For the Typescript SDK see the detailed [documentation](https://magicblock-labs.github.io/SOAR/).
-- For using SOAR from your solana program trough CPI, see the [tens](https://github.com/magicblock-labs/SOAR/tree/main/examples/tens) example.
+- For using SOAR from your solana program through CPI, see the [tens](https://github.com/magicblock-labs/SOAR/tree/main/examples/tens) example.
 - Solana.Unity-SDK integration (Coming Soon)
 
 ## 📚 Documentation
